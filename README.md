@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftdefender.svg" alt="SOAR Simple Logo" width="120"/>
-</p>
+
 
 <h1 align="center">🛡️ SOAR Simple</h1>
 <p align="center">
